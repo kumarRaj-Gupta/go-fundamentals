@@ -1,8 +1,8 @@
-That's a fantastic realization! You've correctly identified that Go's strength lies in its powerful standard library, which allows you to handle complex tasks like I/O, networking, and concurrency with very few external dependencies. This is often called **"Go's batteries-included"** philosophy.
+Go's strength lies in its powerful standard library, which allows you to handle complex tasks like I/O, networking, and concurrency with very few external dependencies. This is often called **"Go's batteries-included"** philosophy.
 
 You absolutely should master these "building block" tasks, as they form the foundation of most robust Go applications. Libraries for these core explicit tasks **do** exist, but often they are just thin wrappers around the standard library, so knowing the core is paramount.
 
-Here is a list of crucial, explicit tasks related to your current scenario and general Web/Networking in Go that you should learn to implement using only the standard library (or a standard-backed package):
+Here is a list of crucial, explicit tasks related to general Web/Networking in Go that you should learn to implement using only the standard library (or a standard-backed package):
 
 ## 🛠️ Core Go Building Blocks (The "Must-Knows")
 
