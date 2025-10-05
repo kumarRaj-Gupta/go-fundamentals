@@ -1,0 +1,5 @@
+This is line 1 of our log file.
+Go's bufio.Scanner is highly efficient.
+We are using this to simulate reading STDIN or a log file.
+The scanner handles buffers and newline characters for us.
+Last line of the file.
